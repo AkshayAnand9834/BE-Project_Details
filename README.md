@@ -1,0 +1,2 @@
+# BE-Project_Details
+ UAV (DRONE) FOR MILITARY ASSISTANCE.
